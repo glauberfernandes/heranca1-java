@@ -18,4 +18,6 @@ Foram criadas as classes:
 
 Conforme UML:
 
+![UML_Heranca](https://github.com/glauberfernandes/heranca1-java/blob/master/UML_Heranca.PNG)
+
 
