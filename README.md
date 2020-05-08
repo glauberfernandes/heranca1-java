@@ -12,7 +12,7 @@ comportamentos de outra
 ### Sintaxe
 - class A extends B
 
-Foram criadas as classes:
+### Foram criadas as classes:
 - Account
 - BusinessAccount
 
